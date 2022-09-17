@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=chicken
+comment0.text=\r\n\ This\ is\ the\ chicken\ class,\ where\ the\ image\ and\ cars\ are\ made.\ Using\ Graphics2d\ I\ created\ 2\ cars,\ and\ I\ have\ created\ the\ set\ background\ for\ the\ game\ as\ well.\r\n\r\n\ @author\ (Shahmeer\ Ali)\r\n\ @version\ (1/12/2020)\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=
+comment2.target=chicken()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=fname
+comment4.target=void\ PicPanel(java.lang.String)
+comment5.params=filename
+comment5.target=void\ sound(java.lang.String)
+comment6.params=Sound
+comment6.target=void\ PlaySound(java.io.File)
+numComments=7

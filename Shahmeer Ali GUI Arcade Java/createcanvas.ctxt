@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=createcanvas
+comment0.text=\r\n\ This\ class\ has\ all\ the\ components\ added\ to\ the\ game,\ the\ buttons\ and\ score.\ Also,\ the\ decisioning\ for\ who\ wins\ is\ done\ in\ this\ class.\r\n\r\n\ @author\ (Shahmeer\ Ali)\r\n\ @version\ (1/9/2020)\r\n
+comment1.params=
+comment1.target=createcanvas()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=path
+comment3.target=javax.swing.ImageIcon\ createImageIcon(java.lang.String)
+numComments=4

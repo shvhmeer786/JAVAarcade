@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=main
+comment0.text=\r\n\ This\ main\ class\ has\ the\ main\ panel\ of\ the\ Arcade\ Project.\ It\ has\ the\ main\ menu\ panel\ on\ the\ side,\ where\ players\ can\ choose\ from\ the\ instructions\ and\ 2\ games.\r\n\ I\ have\ also\ created\ a\ cardlayout\ method\ to\ show\ the\ different\ panels\ I\ have\ created.\ In\ the\ cardpanel,\ I\ have\ the\ Chicken\ game,\ Tic-Tac-Toe,\ and\ finally\ the\ instructions.\r\n\r\n\ @author\ (Shahmeer\ Ali)\r\n\ @version\ (1/9/2020)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=main()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=path
+comment4.target=javax.swing.ImageIcon\ createImageIcon(java.lang.String)
+numComments=5
